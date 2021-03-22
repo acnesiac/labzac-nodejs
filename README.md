@@ -50,3 +50,10 @@ Requests are authenticated using the `Authorization` header with a valid JWT. We
 <br />
 
 [![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
+
+
+
+mongodb+srv://acnesiac:Aruizrivas1@cluster0.oytmo.mongodb.net/srpagotest?authSource=admin&replicaSet=atlas-weuu5b-shard-0&readPreference=primary&appname=MongoDB%20Compass
+
+
+mongodb+srv://acnesiac:Aruizrivas1@cluster0.oytmo.mongodb.net/test
